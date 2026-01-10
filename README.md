@@ -2,7 +2,7 @@
 
 This repository contains my solutions, notes, and personal projects from [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) by Harvard University.
 
-## 📚 About the Course
+## About the Course
 
 CS50P is a beginner-friendly programming course that introduces students to the fundamentals of programming using Python. Topics include:
 
@@ -20,7 +20,7 @@ CS50P is a beginner-friendly programming course that introduces students to the 
 
 > Each week's folder contains problem set solutions, organized by the assignment name.
 
-## ✅ Completed Problem Sets
+## Completed Problem Sets
 
 - [x] Week 0 – Functions, Variables, and Statements
 - [x] Week 1 – Conditionals and Loops
@@ -32,11 +32,11 @@ CS50P is a beginner-friendly programming course that introduces students to the 
 - [x] Week 7 – Object-Oriented Programming
 - [x] Week 8 – Final Project
 
-## 🚀 Final Project
+## Final Project
 
 In the `final_project` folder, I developed a small Python project as a culmination of what I learned in the course. You can find more details in the project’s own README.
 
-## 🧠 My Takeaways
+## My Takeaways
 
 This course helped me:
 
@@ -45,7 +45,7 @@ This course helped me:
 - Get introduced to concepts like OOP, testing, and working with files
 - Write clean, readable, and maintainable code
 
-## ⚙️ Requirements
+## Requirements
 
 To run the programs in this repository, make sure you have:
 
@@ -57,3 +57,4 @@ To install dependencies, if any:
 
 ```bash
 pip install -r requirements.txt
+
